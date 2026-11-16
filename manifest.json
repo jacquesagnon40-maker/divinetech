@@ -1,0 +1,13 @@
+
+{
+  "name": "Divinetech",
+  "short_name": "Divinetech",
+  "description": "Application de gestion Divinetech",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#eaf1ff",
+  "theme_color": "#eaf1ff",
+  "lang": "fr"
+}
